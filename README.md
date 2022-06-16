@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, It's Yash Ahmad 👋
 
 <!--
 **yashahmad/yashahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I have been working as a Full Stack Software Engineer,keen to learn, develop, preview and deploy new technologies. Looking forward to work on Web3, AI, ML, Distributed Systems.
 
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
