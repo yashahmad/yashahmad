@@ -1,4 +1,4 @@
-<img src="./assets/sdlc.jpg" width="100%" height="40%"/>
+<img src="./assets/cse3.png" width="100%" height="40%"/>
 
 ## Hi there, This is Yash Ahmad 👋
 
