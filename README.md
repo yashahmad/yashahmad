@@ -1,5 +1,3 @@
-<img src="./assets/cse3.png" width="100%" height="40%"/>
-
 ## Hi 👋, This is Yash Ahmad
 
 ```
