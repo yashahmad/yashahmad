@@ -5,7 +5,7 @@
 
 📖 I’m currently learning Web3.0, Artificial Intelligence, Machine Learning, Distributed Systems, CyberSecurity.
 
-🛠️ I’m always looking to collaborate with any startup or ic for challenging tech problems.
+🛠️ I’m always looking to collaborate with any startup or as an individual contributor for challenging tech problems.
 
 💬 Ask me about, Full Stack Web Development, Mobile App Development, SEO and Software Development.
 
