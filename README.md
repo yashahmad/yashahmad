@@ -35,9 +35,10 @@
 ### Design Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64px" height="40px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="64px" height="40px"/>
 
-```
-OpenSource mentions:
-  - Supabase (Firebase Alternate)
 
+### Opensource Mentions
+```
+  - Supabase (Firebase Alternate)
+  - Appwrite (Opensource Backend)
 ```
 
