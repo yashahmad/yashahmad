@@ -36,9 +36,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64px" height="40px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="64px" height="40px"/>
 
 
-### Opensource Mentions
+### Alternatives
 ```
   - Supabase (Firebase Alternate)
   - Appwrite (Opensource Backend)
+  - Railway (Heroku Alternative)
 ```
 
