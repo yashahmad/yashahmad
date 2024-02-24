@@ -44,7 +44,5 @@
 ```
 
 ### Boilerplates
-```bash
-- ReactNative, Tamagui: [Link](https://github.com/yashahmad/boilerplate-rn-tamagui)
-- 
-```
+- [React Native](https://www.github.com/yashahmad/boilerplate-rn-tamagui.git) - React Native, UI Library(Tamagui), State Management(Redux Toolkit)
+- [NextJS]()
