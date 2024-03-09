@@ -41,6 +41,8 @@
   - Supabase (Firebase Alternate)
   - Appwrite (Opensource Backend)
   - Railway (Heroku Alternative)
+  - Docusaurus, Nextra (Docs)
+  - 
 ```
 
 ### Boilerplates
