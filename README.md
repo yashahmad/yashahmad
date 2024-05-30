@@ -47,4 +47,4 @@
 
 ### Boilerplates
 - [React Native](https://www.github.com/yashahmad/boilerplate-rn-tamagui.git) - React Native, UI Library(Tamagui), State Management(Redux Toolkit)
-- [NextJS]()
+- [NextJS]() - Full Stack App in Private
