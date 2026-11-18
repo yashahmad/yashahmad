@@ -1,14 +1,3 @@
-<style>
-  :root {
-    --font-mono: 'Cascadia Code', 'SF Mono', 'Fira Code', 'Roboto Mono', monospace;
-  }
-  *,
-  *::before,
-  *::after {
-    font-family: var(--font-mono) !important;
-  }
-</style>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <img src="assets/hero-light.svg" alt="Yash Ahmad — Lead AI Engineer, Enterprise Agentic Systems and AWS Solutions Architect. Toolkit of 21 AI, fullstack and cloud technologies. I build enterprise AI systems that survive audits, traffic, and the P&L. $2M+ revenue impact, 95% faster compliance, 40% lower latency, 6+ years experience." width="100%">
